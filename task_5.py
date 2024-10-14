@@ -1,0 +1,6 @@
+print("Nikita Yemelianov")
+print("Ukraine")
+print("03170")
+print("Kyiv")
+print("Random")
+print("10")
