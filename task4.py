@@ -1,0 +1,5 @@
+digits = input("Введіть 5 цифр, розділених пробілами: ")
+digit_list = digits.split()
+reversed_list = list(reversed(digit_list))
+reversed_number = "".join(reversed_list)
+print(reversed_number)
